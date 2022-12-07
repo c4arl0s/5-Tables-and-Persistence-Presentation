@@ -1,0 +1,30 @@
+[submodule "Protocols"]
+	path = Protocols
+	url = git@github.com:c4arl0s/Protocols.git
+[submodule "AppAnatomyAndLifeCycle"]
+	path = AppAnatomyAndLifeCycle
+	url = git@github.com:c4arl0s/AppAnatomyAndLifeCycle.git
+[submodule "ModelViewController"]
+	path = ModelViewController
+	url = git@github.com:c4arl0s/ModelViewController.git
+[submodule "ScrollViews"]
+	path = ScrollViews
+	url = git@github.com:c4arl0s/ScrollViews.git
+[submodule "TableViews"]
+	path = TableViews
+	url = git@github.com:c4arl0s/TableViews.git
+[submodule "SavingData"]
+	path = SavingData
+	url = git@github.com:c4arl0s/SavingData.git
+[submodule "SystemViewControllers"]
+	path = SystemViewControllers
+	url = git@github.com:c4arl0s/SystemViewControllers.git
+[submodule "BuildingComplexInputScreens"]
+	path = BuildingComplexInputScreens
+	url = git@github.com:c4arl0s/BuildingComplexInputScreens.git
+[submodule "IntermediateTableViews"]
+	path = IntermediateTableViews
+	url = git@github.com:c4arl0s/IntermediateTableViews.git
+[submodule "GuidedProjectList"]
+	path = GuidedProjectList
+	url = https://github.com/c4arl0s/GuidedProjectList
